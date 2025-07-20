@@ -1,0 +1,23 @@
+/* Hero Styling */
+.hero {
+    background-image: url('your-hero-image.jpg'); /* Replace with your actual hero image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .hero-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 3rem;
+    border-radius: 10px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
