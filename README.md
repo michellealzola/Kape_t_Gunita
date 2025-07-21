@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-> [View the website on GitHub Pages](https://your-github-username.github.io/kapet-gunita/)  
+> [View the website on GitHub Pages](https://michellealzola.github.io/Kape_t_Gunita/)  
 
 
 ---
@@ -77,7 +77,7 @@ For collaboration, customization, or feature integration requests, please get in
 
 https://michellealzoladesign.com/contact/
 
----
+
 
 
 
