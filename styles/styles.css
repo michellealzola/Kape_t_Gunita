@@ -1,3 +1,14 @@
+html
+{
+  overflow-y: scroll;
+}
+
+body 
+{
+  margin: 0;
+  padding: 0;
+}
+
 /* Hero Styling */
 .hero {
     background-image: url('../images/top_table_kapet_gunita.png'); /* Replace with your actual hero image */
