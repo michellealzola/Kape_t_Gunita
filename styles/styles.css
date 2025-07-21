@@ -40,5 +40,10 @@
   border-radius: 8px;
 }
 
+  .about-hero img {
+  object-fit: cover;
+  border-radius: 8px;
+}
+
   
   
